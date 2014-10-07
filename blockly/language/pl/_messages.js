@@ -26,37 +26,37 @@
 * to message files.
 */
 // Context menus.
-Blockly.MSG_DUPLICATE_BLOCK = 'Duplicate';
-Blockly.MSG_REMOVE_COMMENT = 'Remove Comment';
-Blockly.MSG_ADD_COMMENT = 'Add Comment';
+Blockly.MSG_DUPLICATE_BLOCK = 'Duplikuj';
+Blockly.MSG_REMOVE_COMMENT = 'Usuń Komentarz';
+Blockly.MSG_ADD_COMMENT = 'Dodaj Komentarz';
 Blockly.MSG_EXTERNAL_INPUTS = 'External Inputs';
 Blockly.MSG_INLINE_INPUTS = 'Inline Inputs';
-Blockly.MSG_DELETE_BLOCK = 'Delete Block';
-Blockly.MSG_DELETE_X_BLOCKS = 'Delete %1 Blocks';
-Blockly.MSG_COLLAPSE_BLOCK = 'Collapse Block';
-Blockly.MSG_EXPAND_BLOCK = 'Expand Block';
-Blockly.MSG_DISABLE_BLOCK = 'Disable Block';
-Blockly.MSG_ENABLE_BLOCK = 'Enable Block';
-Blockly.MSG_HELP = 'Help';
+Blockly.MSG_DELETE_BLOCK = 'Usuń Blok';
+Blockly.MSG_DELETE_X_BLOCKS = 'Usuń %1 Bloki/ów';
+Blockly.MSG_COLLAPSE_BLOCK = 'Zmiń Blok';
+Blockly.MSG_EXPAND_BLOCK = 'Rozwiń Blok';
+Blockly.MSG_DISABLE_BLOCK = 'Zablokuj Blok';
+Blockly.MSG_ENABLE_BLOCK = 'Odblokuj Blok';
+Blockly.MSG_HELP = 'Pomoc';
 // Variable renaming.
-Blockly.MSG_CHANGE_VALUE_TITLE = 'Change value:';
-Blockly.MSG_NEW_VARIABLE = 'New variable...';
-Blockly.MSG_NEW_VARIABLE_TITLE = 'New variable name:';
-Blockly.MSG_RENAME_VARIABLE = 'Rename variable...';
-Blockly.MSG_RENAME_VARIABLE_TITLE = 'Rename all "%1" variables to:';
+Blockly.MSG_CHANGE_VALUE_TITLE = 'Zmień wartość:';
+Blockly.MSG_NEW_VARIABLE = 'Nowa zmienna...';
+Blockly.MSG_NEW_VARIABLE_TITLE = 'Nazwa nowej zmiennej:';
+Blockly.MSG_RENAME_VARIABLE = 'Zmień nazwę zmiennej...';
+Blockly.MSG_RENAME_VARIABLE_TITLE = 'Zmień nazwę wszystkich "%1" zmiennych na:';
 // Toolbox.
-Blockly.MSG_VARIABLE_CATEGORY = 'Variables';
-Blockly.MSG_PROCEDURE_CATEGORY = 'Procedures';
+Blockly.MSG_VARIABLE_CATEGORY = 'Zmienne';
+Blockly.MSG_PROCEDURE_CATEGORY = 'Procedury';
 // Colour Blocks.
-Blockly.LANG_CATEGORY_COLOUR = 'Colour';
+Blockly.LANG_CATEGORY_COLOUR = 'Kolor';
 Blockly.LANG_COLOUR_PICKER_HELPURL = 'http://en.wikipedia.org/wiki/Color';
-Blockly.LANG_COLOUR_PICKER_TOOLTIP = 'Choose a colour form the palette.';
+Blockly.LANG_COLOUR_PICKER_TOOLTIP = 'Wybierz kolor z palety.';
 Blockly.LANG_COLOUR_RGB_HELPURL = 'http://en.wikipedia.org/wiki/RGB_color_model';
 Blockly.LANG_COLOUR_RGB_TITLE = 'colour with';
-Blockly.LANG_COLOUR_RGB_RED = 'red';
-Blockly.LANG_COLOUR_RGB_GREEN = 'green';
-Blockly.LANG_COLOUR_RGB_BLUE = 'blue';
-Blockly.LANG_COLOUR_RGB_TOOLTIP = 'Create a colour with the specified amount of red, green,\n' +
+Blockly.LANG_COLOUR_RGB_RED = 'czerwony';
+Blockly.LANG_COLOUR_RGB_GREEN = 'zielony';
+Blockly.LANG_COLOUR_RGB_BLUE = 'niebieski';
+Blockly.LANG_COLOUR_RGB_TOOLTIP = 'Stwórz kolor z określonej ilości czerwonego, zielonego \n' +
 'and blue. All values must be between 0.0 and 1.0.';
 Blockly.LANG_COLOUR_BLEND_TITLE = 'blend';
 Blockly.LANG_COLOUR_BLEND_COLOUR1 = 'colour 1';
